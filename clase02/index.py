@@ -1,4 +1,4 @@
-# 05/09/2025
+# 29/08/2025
 # Ejercicios de repaso
 # 1- Abrir con pandas la base de microdatos de la encuesta permanente de hogares del tercer
 # trimestre de 2024.
